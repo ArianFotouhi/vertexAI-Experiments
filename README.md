@@ -42,3 +42,9 @@ You can install the required dependencies using pip:
 pip install google-cloud-aiplatform gcsfs xgboost category_encoders imblearn pandas google-cloud-storage
 ```
 
+## Results
+![CC Image](https://github.com/ArianFotouhi/vertexAI-Experiments/blob/main/assets/vertexAI-1.png?raw=true)
+![CC Image](https://github.com/ArianFotouhi/vertexAI-Experiments/blob/main/assets/vertexAI-2.png?raw=true)
+![CC Image](https://github.com/ArianFotouhi/vertexAI-Experiments/blob/main/assets/vertexAI-3.png?raw=true)
+![CC Image](https://github.com/ArianFotouhi/vertexAI-Experiments/blob/main/assets/vertexAI-4.png?raw=true)
+
